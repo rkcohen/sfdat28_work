@@ -16,3 +16,7 @@
   * I got my data from AT&T's Data for Diplomas competition data set (2015).
   * The graduation rates and census merged data set has about 550 features.
   * I chose this topic because I am interested in finding factors that influence graduation rates.
+5. Predicting "good" lendingclub loan entries based off of historical observations of which loans were paid off/defaulted/and the yield.
+  * Lendingclub has historical data on all loans that they have recorded.
+  * There is historical data as well as data on loans that were declined by lendingclub.
+  * I chose this topic because my brother is starting to get into lendingclub loans and want to see if we can make a model that will aid in the investment process.
