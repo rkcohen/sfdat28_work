@@ -40,3 +40,4 @@ In conclusion, I found that there were school districts where the diversity of t
 
 #Next Steps:
 To make the model perform better, I plan to add 2012 and 2014 voting results by county in order to get some historical data into the mix.  I would also need to get more complete/updated school district and census data to gain a more accurate representation of the population.
+ * 
